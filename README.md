@@ -20,8 +20,8 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution]()
-- Live Site URL: [Live Site at Vercel]()
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/testimonials-grid-section-yblIgFKnJN)
+- Live Site URL: [Live Site at Vercel](https://testimonials-grid-section-dunprel.vercel.app/)
 
 ## My process
 
@@ -51,3 +51,4 @@ Using a an effect that works like a general sibling that select also the previou
 
 - Github - [dunprel](https://github.com/dunprel/)
 - Frontend Mentor - [@dunprel](https://www.frontendmentor.io/profile/dunprel)
+- My Portfolio - [@dunprel](https://dunprel-portfolio.vercel.app/)
